@@ -39,6 +39,6 @@ Contact me:
 <br><br>
 <a href = "mailto:aaarnavsssharma@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
 
-Follow me:<br>
+Follow me:
 <br><br>
 [![Hits](https://img.shields.io/badge/github-000?style=for-the-badge&logo=GITHUB&logoColor=white)](https://github.com/A12N4V)
