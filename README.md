@@ -26,4 +26,6 @@ Make a ```.env``` file and a mailchimp account. After making the mailchimp accou
 ```sh
 AUTH="<MAILCHIMP USERNAME>:<API KEY>"
 ```
+
+Note
 > the API key can be founded [API Page](https://us6.admin.mailchimp.com/account/api/)
