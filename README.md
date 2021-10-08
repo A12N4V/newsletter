@@ -26,10 +26,8 @@ Make a ```.env``` file and a mailchimp account. After making the mailchimp accou
 ```sh
 AUTH="<MAILCHIMP USERNAME>:<API KEY>"
 ```
-The API key can be founded [API Page](https://us6.admin.mailchimp.com/account/api/)
-
 Finally type the command
 ```sh
 node app.js
 ```
-and visit localhost:8080 or localhost:<PORT>
+and visit localhost:8080
