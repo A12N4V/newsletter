@@ -9,3 +9,11 @@ Made with:
 Link:
 
 https://enigmatic-thicket-99001.herokuapp.com/
+<hr><hr>
+
+How to setup your own newsletter with my repo's code ?
+First clone and initialise the project. Then, Install the required modules.
+$ git clone https://github.com/A12N4V/newsletter.git
+$ cd newsletter
+$ npm init -y
+$ npm i
