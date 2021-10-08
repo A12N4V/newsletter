@@ -10,7 +10,7 @@ Link:<br><br>
 [![Hits](https://img.shields.io/badge/newsletter-white?style=for-the-badge)](https://enigmatic-thicket-99001.herokuapp.com/)
 <hr>
 
-How to setup your own newsletter with my repo's code ?
+## Want to setup your own newsletter ?
 
 First clone and initialise the project. Then, Install the required modules.
 
