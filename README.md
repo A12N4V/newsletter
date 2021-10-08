@@ -1,5 +1,5 @@
 # newsletter
-<hr><b>Subscribe to my newsletter<b><hr>
+<hr>Subscribe to my newsletter<hr>
 
 Made with:
 <br><br>
@@ -20,3 +20,10 @@ cd newsletter
 npm init -y
 npm i
 ```
+
+Make a ```sh .env``` file and a mailchimp account. After making a mailchimp account create a new api key by visiting !['API'](https://us6.admin.mailchimp.com/account/api/) and pressing 'create a key' button . Then fill the ```sh .env``` file  with the following 
+
+```sh
+AUTH="<MAILCHIMP USERNAME>:<API KEY>"
+```
+> the API key can be founded !['API'](https://us6.admin.mailchimp.com/account/api/)
