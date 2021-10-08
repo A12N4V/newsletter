@@ -1,5 +1,6 @@
 //jshint eversion: 6
 require('dotenv').config();
+const port = 8080
 const express = require('express');
 const app = express();
 const bodyParser = require('body-parser');
@@ -47,6 +48,6 @@ app.post("/", function(req, res) {
 app.post("/failure", function(req, res) {
   res.redirect("/")
 });
-app.listen(process.env.PORT||8080, function() {
-  console.log('[+]server started on port 8080');
+app.listen(port, function() {
+  console.log('[+]server started on port ' + port);
 });
