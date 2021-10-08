@@ -39,4 +39,6 @@ Contact me:
 <a href = "mailto:aaarnavsssharma@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
 
 Support me:
-By following on: [![Hits](https://img.shields.io/badge/github-000?style=for-the-badge&logo=GITHUB&logoColor=white)](https://github.com/A12N4V)
+By following on:
+<br><br>
+[![Hits](https://img.shields.io/badge/github-000?style=for-the-badge&logo=GITHUB&logoColor=white)](https://github.com/A12N4V)
