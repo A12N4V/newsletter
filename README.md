@@ -21,9 +21,9 @@ npm init -y
 npm i
 ```
 
-Make a ```.env``` file and a mailchimp account. After making a mailchimp account create a new api key by visiting ![Hits](https://us6.admin.mailchimp.com/account/api/) and pressing 'create a key' button . Then fill the ```.env``` file  with the following 
+Make a ```.env``` file and a mailchimp account. After making a mailchimp account create a new api key by visiting [API Page](https://us6.admin.mailchimp.com/account/api/) and pressing 'create a key' button . Then fill the ```.env``` file  with the following 
 
 ```sh
 AUTH="<MAILCHIMP USERNAME>:<API KEY>"
 ```
-> the API key can be founded !['API'](https://us6.admin.mailchimp.com/account/api/)
+> the API key can be founded [API Page](https://us6.admin.mailchimp.com/account/api/)
