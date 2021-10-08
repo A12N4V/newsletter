@@ -15,8 +15,8 @@ Link:<br><br>
 First clone and initialise the project. Then, Install the required modules.
 
 ```sh
-$ git clone https://github.com/A12N4V/newsletter.git
-$ cd newsletter
-$ npm init -y
-$ npm i
+git clone https://github.com/A12N4V/newsletter.git
+cd newsletter
+npm init -y
+npm i
 ```
