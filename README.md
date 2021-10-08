@@ -1,5 +1,5 @@
 # newsletter
-<hr>Subscribe to my newsletter<hr>
+<hr><b>Subscribe to my newsletter<b><hr>
 
 Made with:
 <br><br>
