@@ -27,3 +27,8 @@ Make a ```.env``` file and a mailchimp account. After making the mailchimp accou
 AUTH="<MAILCHIMP USERNAME>:<API KEY>"
 ```
 > the API key can be founded [API Page](https://us6.admin.mailchimp.com/account/api/)
+
+Then type the command
+```sh
+node app.js
+```
