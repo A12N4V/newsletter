@@ -31,7 +31,6 @@ Finally type the command
 node app.js
 ```
 and visit localhost:8080.<br>
-You can track your subscribers from mailchimp.
 <hr>
 
 ## Like my work ?
