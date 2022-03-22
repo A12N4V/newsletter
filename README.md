@@ -5,7 +5,6 @@ Made with:
 <br><br>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge" />
 <img alt="Express" src="https://img.shields.io/badge/Express-green?style=for-the-badge&logo=express"> 
-<img alt="EJS" src="https://img.shields.io/badge/ejs-white?style=for-the-badge&logo=ejs"> 
 <img alt="Mailchimp" src="https://img.shields.io/badge/Mailchimp%20API-yellow?style=for-the-badge" />
 
 Link:<br><br>
