@@ -1,5 +1,5 @@
-# newsletter
-<hr>Subscribe to my newsletter<hr>
+# Newsletter
+<hr>A simple newsletter signup site<hr>
 
 Made with:
 <br><br>
@@ -7,18 +7,17 @@ Made with:
 <img alt="Express" src="https://img.shields.io/badge/Express-green?style=for-the-badge&logo=express"> 
 <img alt="Mailchimp" src="https://img.shields.io/badge/Mailchimp%20API-yellow?style=for-the-badge" />
 
-Link:<br><br>
+Demo link:<br><br>
 [![Hits](https://img.shields.io/badge/newsletter-white?style=for-the-badge)](https://enigmatic-thicket-99001.herokuapp.com/)
 <hr>
 
 ## Want to setup your own newsletter ?
 
-First clone and initialise the project. Then, Install the required modules.
+First clone the project. Then, Install the required modules.
 
 ```sh
 git clone https://github.com/A12N4V/newsletter.git
 cd newsletter
-npm init -y
 npm i
 ```
 
@@ -33,7 +32,8 @@ node app.js
 ```
 and visit localhost:8080.<br>
 
-You can now publish this.
+You can now see the site running,
+You can publish the same to make it publicly available.
 <hr>
 
 ## Like my work ?
