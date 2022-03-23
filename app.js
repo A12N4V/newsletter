@@ -1,4 +1,3 @@
-//jshint eversion: 6
 require('dotenv').config();
 const port = 8080;
 const express = require('express');
