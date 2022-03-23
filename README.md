@@ -30,7 +30,7 @@ Finally type the command
 ```sh
 node app.js
 ```
-and visit localhost:8080.<br>
+and visit ```localhost:8080```.<br>
 
 You can now see the site running,
 You can publish the same to make it publicly available.
