@@ -1,5 +1,5 @@
 {
-  "name": "newsletter-signup",
+  "name": "newsletter",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
@@ -13,5 +13,5 @@
     "express": "^4.17.1",
     "request": "^2.88.2"
   },
-  "description": ""
+  "description": "A simple site that can sign people up for your newsletter"
 }
